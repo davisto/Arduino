@@ -1,1 +1,3 @@
-I2C Master from https://github.com/chrisramsay/arduino-projects
+#Arduino Libraries
+Collection of necessary libraries needed in my projects. 
+Unless stated they're not developed by myself.
