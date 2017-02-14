@@ -1,6 +1,7 @@
 .DS_Store
 
 #dummy projects
+resources
 display_tire_temp
 projects/BluetoothDemo_HC-06
 
