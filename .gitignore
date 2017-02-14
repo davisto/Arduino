@@ -1,1 +1,22 @@
 .DS_Store
+
+#dummy projects
+display_tire_temp
+projects/BluetoothDemo_HC-06
+
+#TireTempPro
+projects/TireTempPro/images/
+projects/TireTempPro/res/
+
+projects/TireTempPro/res/**/*.bmp
+projects/TireTempPro/res/**/*.pxm
+projects/TireTempPro/res/**/*.jpg
+
+!projects/TireTempPro/res/images/hw_0110.jpg
+!projects/TireTempPro/res/images/hw_0112.jpg
+!projects/TireTempPro/res/images/hw_0201.jpg
+!projects/TireTempPro/res/images/ws_160717_002.jpg
+!projects/TireTempPro/res/images/ws_160903_001.jpg
+
+projects/TireTempPro/res/**/*.MOV
+
